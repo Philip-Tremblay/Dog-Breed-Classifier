@@ -1,3 +1,8 @@
+This is a project I completed with Udacity's Deep Learning Nanodegree program
+
+
+______________________________
+
 [//]: # (Image References)
 
 [image1]: ./images/sample_dog_output.png "Sample Output"
